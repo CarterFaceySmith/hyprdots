@@ -2,6 +2,7 @@ alsa-utils
 ark
 autorandr
 aws-cli
+baobab
 base
 base-devel
 betterbird-bin
@@ -28,6 +29,7 @@ flatpak
 gcc
 git
 github-cli
+google-chrome
 grimblast-git
 grub
 gst-plugin-pipewire
@@ -57,6 +59,7 @@ neovim
 network-manager-applet
 networkmanager
 notion-app-electron
+npm
 nvidia-dkms
 nvidia-utils
 nwg-look
@@ -81,10 +84,12 @@ powertop
 protonmail-desktop
 python-boto3
 python-flask
+python-pandas
 python-pip
 python-pipx
 python-pyamdgpuinfo
 python-requests
+python-tornado
 qt5-graphicaleffects
 qt5-imageformats
 qt5-quickcontrols
@@ -98,6 +103,7 @@ sddm
 signal-desktop
 slurp
 sof-firmware
+spotify
 sudo
 swappy
 swaylock-effects-git
@@ -154,5 +160,6 @@ xorg-xwininfo
 xorg-xwud
 yay
 yay-debug
+zapzap
 zsh
 zsh-theme-powerlevel10k-git
